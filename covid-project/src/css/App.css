@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: rgb(22, 70, 73);
+  height: 10vh;
+}
+
+header h1 {
+  color: rgb(240, 232, 233);
+  font-size: 3rem;
+  text-align: left;
+  margin-left: 8rem;
+}
+
+body {
+  background-color: rgb(240, 232, 233);
+}

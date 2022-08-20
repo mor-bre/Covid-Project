@@ -1,0 +1,7 @@
+.states-list {
+    width: 85%;
+    display: flex;
+    margin: 1rem auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}

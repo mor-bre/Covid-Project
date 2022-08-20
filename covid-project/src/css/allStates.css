@@ -1,0 +1,51 @@
+.all-states-container {
+    margin: 3rem auto;
+    padding-top: 0.1rem;
+    background-color: #fff;
+    width: 90%;
+    height: 90vh;
+}
+
+.all-states-container h1 {
+    color: rgb(22, 70, 73);
+}
+
+.stats {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    height: 35vh;
+}
+
+.info-container {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+
+.total-results {
+    display: flex;
+    width: 80vw;
+    margin: 1.5rem auto 0 auto;
+    flex-direction: row;
+    background-color: rgb(240, 232, 233);
+    height: 5rem;
+}
+
+/* .all-states-chart {
+     margin: 0 auto; 
+} */
+
+.chart-container {
+    display: flex;
+    height: 18vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.loading {
+    margin-top: 2rem;
+}

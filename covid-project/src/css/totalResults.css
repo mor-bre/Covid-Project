@@ -1,0 +1,16 @@
+.total-result {
+    width: 20vw;
+    box-sizing: border-box;
+    text-align: left;
+    padding: 0 1rem;
+}
+
+.total-result h4 {
+    margin-top: 0.6rem;
+    margin-bottom: 0;
+}
+
+.total-result p {
+    margin-top: 0.4rem;
+    font-size: 1.3rem;
+}

@@ -1,0 +1,9 @@
+.by-state-chart {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    height: 15vh;
+}

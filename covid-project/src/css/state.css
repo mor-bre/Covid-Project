@@ -1,0 +1,22 @@
+.by-state {
+    box-sizing: border-box;
+    transition: 0.3s;
+    margin: 0.5rem;
+    background-color: rgb(240, 232, 233);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 35vw;
+    height: 90vh;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.state-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.by-state:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
