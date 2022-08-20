@@ -4,8 +4,8 @@ The covid project was created to show stats about the corona situation in the US
 
 To run the front-end:
 
-* cd covid-project
-* npm install @node_modules
+* cd Covid-Project
+* npm install
 * npm start
 
 To run the back-end:
